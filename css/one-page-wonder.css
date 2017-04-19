@@ -18,8 +18,12 @@ body {
 .nav-container {
     font-family: 'Cormorant Garamond', serif;
     font-size: 20px;
+    font-weight: bold;
     height: 75px;   
     background-color: #FFB4D9;
+}
+
+.navbar-inverse .navbar-brand, .navbar-inverse .navbar-nav>li>a {
     color: #000000;
 }
 
